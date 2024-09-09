@@ -1,6 +1,10 @@
 Hi there, I'm Sevda! 👋
 
-I'm a Zabbix and Grafana specialist currently working at OmidSystem.co. With a background in Electronics Engineering (B.Eng) and Mechatronics Engineering (MS), I am passionate about creating innovative solutions that blend software and hardware.
+As an engineer with a passion for IoT systems, Zabbix, and Grafana, I enjoy bringing ideas to life by blending hardware and software seamlessly. I hold a B.Eng in Electronics Engineering and an MS in Mechatronics Engineering, and my skills span across Altium Designer, microcontrollers, sensors, and database management with SQL and MongoDB.
+
+I’m driven by the challenge of creating innovative solutions—whether it's designing custom electronics or developing monitoring systems. My love for programming and building devices fuels my curiosity every day.
+
+Let's collaborate and create something amazing!
 ⚡ What I do:
 
     Professional in:
